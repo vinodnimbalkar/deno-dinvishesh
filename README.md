@@ -1,6 +1,6 @@
 # DinVishesh
 
-#### A simple NPM Package which returns dinvishesh (On This Day in History). Get your daily dinvishesh and increase knowledge!
+#### A simple deno module which returns dinvishesh (On This Day in History). Get your daily dinvishesh and increase knowledge!
 
 ## Installation
 
@@ -10,7 +10,7 @@ import {
   dinVishesh,
   dinVisheshAll,
   dinVisheshByCategory
-} from "https://deno.land/x/deno-dinvishesh/mod.ts";
+} from "https://deno.land/x/deno_dinvishesh/mod.ts";
 ```
 
 ## Usage
@@ -127,4 +127,4 @@ Feel free to open an issue (or even better, send a Pull Request). Contributions 
 
 ## License
 
-**MIT &copy; [Vinod Nimbalkar](https://github.com/vinodnimbalkar/dino-dinvishesh/blob/master/LICENSE)**
+**MIT &copy; [Vinod Nimbalkar](https://github.com/vinodnimbalkar/deno-dinvishesh/blob/master/LICENSE)**
